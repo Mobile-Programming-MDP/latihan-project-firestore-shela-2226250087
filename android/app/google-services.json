@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867203524632",
+    "project_id": "flutterfirebaru1",
+    "storage_bucket": "flutterfirebaru1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867203524632:android:3b42eac381ff93b895bb6d",
+        "android_client_info": {
+          "package_name": "com.example.flutterlist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYtjMZCTQG6BtjFrt6xTbxYouMcyf8ME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
